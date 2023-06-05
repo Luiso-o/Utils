@@ -1,0 +1,2 @@
+F - contenido_directorio.txt - 05/06/2023 10:16:44
+F - miArchivo.properties - 04/06/2023 19:41:57

@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Ejecutable" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="n2ejercicio1.Ejecutable" />
+    <module name="Utils" />
+    <option name="PROGRAM_PARAMETERS" value="$MAVEN_REPOSITORY$" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="n1ejercicio5.*" />
+        <option name="ENABLED" value="false" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
